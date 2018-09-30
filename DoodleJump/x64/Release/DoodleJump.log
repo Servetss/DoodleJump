@@ -1,0 +1,17 @@
+﻿  DoodleJump.cpp
+e:\fffffffffffffff\projects\gamesfml\doodlejump\doodlejump\doodlejump.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\fffffffffffffff\projects\gamesfml\doodlejump\doodlejump\doodlejump.cpp(93): warning C4305: '+=': truncation from 'double' to 'float'
+e:\fffffffffffffff\projects\gamesfml\doodlejump\doodlejump\doodlejump.cpp(94): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+e:\fffffffffffffff\projects\gamesfml\doodlejump\doodlejump\doodlejump.cpp(103): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\fffffffffffffff\projects\gamesfml\doodlejump\doodlejump\doodlejump.cpp(158): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\fffffffffffffff\projects\gamesfml\doodlejump\doodlejump\doodlejump.cpp(163): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\fffffffffffffff\projects\gamesfml\doodlejump\doodlejump\doodlejump.cpp(172): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\fffffffffffffff\projects\gamesfml\doodlejump\doodlejump\doodlejump.cpp(178): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\fffffffffffffff\projects\gamesfml\doodlejump\doodlejump\doodlejump.cpp(224): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\fffffffffffffff\projects\gamesfml\doodlejump\doodlejump\doodlejump.cpp(230): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 70 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DoodleJump.vcxproj -> E:\fffffffffffffff\Projects\GameSFML\DoodleJump\x64\Release\DoodleJump.exe
